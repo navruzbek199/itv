@@ -1,0 +1,12 @@
+{
+  "validation": {
+    "fillField": "Please fill in this field",
+    "inputEmail": "Please enter an email address",
+    "minimumLength": "Minimum length {value}",
+    "maximumLength": "Maximum length {value}",
+    "pattern": "Enter in correct format",
+    "invalidPrefix": "This phone number prefix is not supported.",
+    "invalidPassword": "Password must be at least 8 characters long and contain letters, numbers, and allowed special symbols.",
+    "passwordsDontMatch": "Passwords do not match."
+  }
+}

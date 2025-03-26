@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Suisse Intl";
+    src: url("./Suisse-Intl/88f10bf18a36407ef36bf30bc25a3618.eot");
+    /* IE9*/
+    src: url("./Suisse-Intl/88f10bf18a36407ef36bf30bc25a3618.eot?#iefix") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("./Suisse-Intl/88f10bf18a36407ef36bf30bc25a3618.woff2") format("woff2"),
+        /* chrome firefox */
+        url("./Suisse-Intl/88f10bf18a36407ef36bf30bc25a3618.woff") format("woff"),
+        /* chrome firefox */
+        url("./Suisse-Intl/88f10bf18a36407ef36bf30bc25a3618.ttf") format("truetype"),
+        /* chrome firefox opera Safari, Android, iOS 4.2+*/
+        url("./Suisse-Intl/88f10bf18a36407ef36bf30bc25a3618.svg#Suisse Intl") format("svg");
+    /* iOS 4.1- */
+}
+
+@font-face {
+    font-family: 'Studio Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./cry-grotesk/StudioGroteskRegular-RpgqE.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Studio Grotesk';
+    font-style: normal;
+    font-weight: 100;
+    src: url('./cry-grotesk/StudioGroteskThin-BWpjw.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Studio Grotesk';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./cry-grotesk/StudioGroteskLight-1GY2v.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Studio Grotesk';
+    font-style: normal;
+    font-weight: 800;
+    src: url('./cry-grotesk/StudioGroteskBold-8Mz4n.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Studio Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./cry-grotesk/StudioGroteskExtraBold-Yzgy2.woff') format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');

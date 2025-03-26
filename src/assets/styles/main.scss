@@ -1,0 +1,10 @@
+@import './tailwind.scss';
+@import './shadcn/components.scss';
+@import "../fonts/fonts.scss";
+@import "./colors.scss";
+html,
+body {
+    font-family: "Manrope", sans-serif;
+    scroll-behavior: smooth;
+    background-color: #171818;
+}
